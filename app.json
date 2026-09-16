@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "AI Chat",
+    "slug": "ai-chat-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "aichat",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "ai.chat.mobile"
+    },
+    "android": {
+      "package": "ai.chat.mobile"
+    },
+    "extra": {
+      "appVersion": "1.0.0"
+    }
+  }
+}
